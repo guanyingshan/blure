@@ -9,9 +9,7 @@ import asyncio
 import json
 import random
 import string
-
 import websockets
-
 
 def random_hash():
     letters = string.ascii_lowercase + string.digits
