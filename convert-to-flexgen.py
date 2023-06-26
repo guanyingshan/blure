@@ -1,8 +1,5 @@
 '''
-
 Converts a transformers model to a format compatible with flexgen.
-
-'''
 
 import argparse
 import os
